@@ -1,0 +1,6 @@
+org.springframework.test.context.ContextCustomizerFactory = rs.grifonsoft.\
+    porodicni_pomocnik.config.\
+    SqlTestContainersSpringContextCustomizerFactory,rs.grifonsoft.\
+    porodicni_pomocnik.config.TestContainersSpringContextCustomizerFactory,rs.\
+    grifonsoft.porodicni_pomocnik.config.\
+    KafkaTestContainersSpringContextCustomizerFactory
